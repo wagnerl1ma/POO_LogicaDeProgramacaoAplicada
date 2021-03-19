@@ -72,12 +72,14 @@ namespace Operadores
             #endregion
 
             #region Igualdade / Comparação
+
             //bool res = 100 == (50 * 2);
             //bool res2 = (200 / 2) != (100 + 100);
 
             //string nome = "Gabriel";
             //bool res3 = nome != "Lucas";
-            //Console.WriteLine();
+            //Console.WriteLine(res);
+
             #endregion
 
             #region Relacionais
