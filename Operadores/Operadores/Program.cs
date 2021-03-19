@@ -53,14 +53,15 @@ namespace Operadores
             #endregion
 
             #region Operadores Atribuição
+
             //int num1 = 13;
 
-            //num1 = num1 + 20;
-            //num1 += 20;
-            //num1 -= 2;
-            //num1 *= 3;
-            //num1 /= 2;
-            //num1 %= 2;
+            //num1 += 20;         // num1 = num1 + 20
+            //num1 -= 2;          // num1 = num1 - 2
+            //num1 *= 3;          // num1 = num1 * 3
+            //num1 /= 2;          // num1 = num1 / 2
+            //num1 %= 2;          // num1 = num1 % 2
+
             //Console.WriteLine(num1);
 
             //string nome = "Gabriel";
