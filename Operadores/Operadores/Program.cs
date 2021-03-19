@@ -46,8 +46,9 @@ namespace Operadores
             #region Concatenação
             //string nome = "Gabriel ";
             //string sobreNome = "Artigas";
-            //string nomeCompleto = nome + sobreNome + " "+ 1985;
+            //string nomeCompleto = nome + sobreNome + " " + 1985;
 
+            //Console.WriteLine($"teste nome: {nomeCompleto}");
             //Console.WriteLine(nomeCompleto);
             #endregion
 
