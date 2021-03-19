@@ -93,7 +93,8 @@ namespace Operadores
 
             #endregion
 
-            #region Lógicos
+            #region Operadores Lógicos
+
             //bool res1 = 100 >= 50;
             //bool res2 = 60 == 50;
 
@@ -101,6 +102,7 @@ namespace Operadores
             //bool final2 = (100 >= 50) || (60 == 50);
 
             //Console.WriteLine(final2);
+
             #endregion
 
             Console.ReadKey();
