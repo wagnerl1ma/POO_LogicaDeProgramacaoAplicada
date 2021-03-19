@@ -82,13 +82,15 @@ namespace Operadores
 
             #endregion
 
-            #region Relacionais
+            #region Operadores Relacionais
+
             //bool res = 100 < 50 * 2;
             //bool res = 100 + 25 > 50 * 2;
             //bool res = 100 <= 50 * 2;
             //bool res = 75 >= 50;
 
             //Console.WriteLine(res);
+
             #endregion
 
             #region Lógicos
